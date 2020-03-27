@@ -16,6 +16,7 @@ Usages numériques éco-responsables
 
 ## Navigateurs
 - préférer un navigateur moins énergivore
+- paramétrer une page d'accueil vide
 - utiliser l'historique, la barre de navigation ou directement l'URL du site
 - enregistrer les sites web consultés fréquemment dans vos favoris pour éviter de passer par un moteur de recherche
 - utiliser un moteur de recherche éco-responsable comme Ecosia / Lilo / Ecogine
