@@ -18,6 +18,7 @@ Usages numériques éco-responsables
 
 ## Navigateurs
 - préférer un navigateur moins énergivore
+- paramétrer une page d'accueil vide
 - utiliser l'historique, la barre de navigation ou directement l'URL du site
 - enregistrer les sites web consultés fréquemment dans vos favoris pour éviter de passer par un moteur de recherche
 - utiliser un moteur de recherche éco-responsable comme Ecosia / Lilo / Ecogine
@@ -47,8 +48,12 @@ Usages numériques éco-responsables
 ## Nota
 - Ecosia ne réduit pas la consommation d'énergie (car il aggrège les résultats de plusieurs moteurs de recherche) ... L’engagement écologique se dessine pourtant à travers les revenus publicitaires dont 80% sont reversés à des projets environnementaux et solidaires grâce à des partenariats avec des Organisations dédiées à l’écologie, principalement à la plantation d’arbres.
 
+<<<<<<< HEAD
 ## Quelques références
 - Ecosia: [https://www.ecosia.org/](https://www.ecosia.org/)
 - Ecogine: [https://ecogine.org/](https://ecogine.org/)
 - 
 
+=======
+**Quelques références**
+>>>>>>> ce963ac36eaabb9d4f76b16306f3e746c443e5f0
