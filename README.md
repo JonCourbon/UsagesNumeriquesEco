@@ -14,6 +14,8 @@ Usages numériques éco-responsables
 
 - limiter les destinataires, éviter le plus possible la fonction "répondre à tous"
 
+- ne pas imprimer les mails sauf si cela est nécessaire
+
 ## Navigateurs
 - préférer un navigateur moins énergivore
 - utiliser l'historique, la barre de navigation ou directement l'URL du site
@@ -42,7 +44,11 @@ Usages numériques éco-responsables
 - maîtriser ses usages et limiter son temps d'écran
 
 
-**Nota**
+## Nota
 - Ecosia ne réduit pas la consommation d'énergie (car il aggrège les résultats de plusieurs moteurs de recherche) ... L’engagement écologique se dessine pourtant à travers les revenus publicitaires dont 80% sont reversés à des projets environnementaux et solidaires grâce à des partenariats avec des Organisations dédiées à l’écologie, principalement à la plantation d’arbres.
 
-**Quelques références**
+## Quelques références
+- Ecosia: [https://www.ecosia.org/](https://www.ecosia.org/)
+- Ecogine: [https://ecogine.org/](https://ecogine.org/)
+- 
+
