@@ -47,6 +47,9 @@ Usages numériques éco-responsables
 - Ecosia ne réduit pas la consommation d'énergie (car il aggrège les résultats de plusieurs moteurs de recherche) ... L’engagement écologique se dessine pourtant à travers les revenus publicitaires dont 80% sont reversés à des projets environnementaux et solidaires grâce à des partenariats avec des Organisations dédiées à l’écologie, principalement à la plantation d’arbres.
 
 ## Quelques références
+- [Internet et e-mails : limiter les impacts - ADEME](https://www.ademe.fr/particuliers-eco-citoyens/bureau/internet-e-mails-limiter-impacts)
+
+Moteurs de recherche
 - Ecosia: [https://www.ecosia.org/](https://www.ecosia.org/)
 - Ecogine: [https://ecogine.org/](https://ecogine.org/)
 - Lilo: [https://www.lilo.org](https://www.lilo.org)
