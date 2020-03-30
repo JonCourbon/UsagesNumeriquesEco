@@ -1,17 +1,6 @@
 # UsagesNumeriquesEco
 Usages numériques éco-responsables
 
-## Mails
-- envoyer un mail uniquement lorsque c’est nécessaire
-- supprimer ses mails que l'on a lu et qui ne nous serviront plus
-- se désabonner des newsletters / listes de diffusions que l'on ne lit jamais
-- utiliser une signature sous format texte (HTML) plutôt que sous format d'une image
-- ne pas joindre des pièces jointes quand ce n'est pas nécessaire (lors de transfert ou de réponse aux mails notamment)
-- préférer l'envoi de liens à l'envoi de pièces jointes
-- envoyer des versions compressées ou allégées des fichiers
-- limiter les destinataires, éviter le plus possible la fonction "répondre à tous"
-- ne pas imprimer les mails sauf si cela est nécessaire
-
 ## Navigateurs
 - préférer un navigateur moins énergivore
 - paramétrer une page d'accueil vide
@@ -27,6 +16,19 @@ Usages numériques éco-responsables
 - désactiver la localisation quand on n'en a pas besoin (localisation -> consommation batterie)
 - privilégier des logiciels ou applications plus légères et moins gourmandes en ressources
 - limiter le stockage de ses données sur le cloud
+
+
+## Mails
+- envoyer un mail uniquement lorsque c’est nécessaire
+- supprimer ses mails que l'on a lu et qui ne nous serviront plus
+- se désabonner des newsletters / listes de diffusions que l'on ne lit jamais
+- utiliser une signature sous format texte (HTML) plutôt que sous format d'une image
+- ne pas joindre des pièces jointes quand ce n'est pas nécessaire (lors de transfert ou de réponse aux mails notamment)
+- préférer l'envoi de liens à l'envoi de pièces jointes
+- envoyer des versions compressées ou allégées des fichiers
+- limiter les destinataires, éviter le plus possible la fonction "répondre à tous"
+- ne pas imprimer les mails sauf si cela est nécessaire
+
 
 ## Matériel
 - éteindre les ordinateurs, écrans, ... (utiliser une multiprise à interrupteur par exemple)
@@ -47,4 +49,4 @@ Usages numériques éco-responsables
 ## Quelques références
 - Ecosia: [https://www.ecosia.org/](https://www.ecosia.org/)
 - Ecogine: [https://ecogine.org/](https://ecogine.org/)
--
+- Lilo: [https://www.lilo.org](https://www.lilo.org)
